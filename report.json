@@ -1,0 +1,13 @@
+{
+    "repository": "https://github.com/Jayesh1784/DevOps-project",
+    "final_score": {
+        "total_score": 57.75,
+        "breakdown": {
+            "code_quality": 5.0,
+            "collaboration": 50,
+            "devops": 70,
+            "security": 100,
+            "branch": 100
+        }
+    }
+}
