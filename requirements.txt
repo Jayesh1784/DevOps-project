@@ -1,0 +1,6 @@
+GitPython
+requests
+pandas
+pyyaml
+rich
+python-dotenv
